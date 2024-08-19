@@ -59,32 +59,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 4. **Persistent Storage:**
    - Tasks will be saved in your browser’s local storage and will persist even after you refresh the page.
 
-## Contributing
-
-Contributions are welcome! If you’d like to contribute, please follow these steps:
-
-1. **Fork the Repository**
-2. **Create a Branch:**
-
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-
-3. **Make Your Changes**
-4. **Commit Your Changes:**
-
-   ```bash
-   git commit -am 'Add feature or fix'
-   ```
-
-5. **Push to the Branch:**
-
-   ```bash
-   git push origin feature/your-feature
-   ```
-
-6. **Create a Pull Request**
-
 Please make sure your code follows the project's coding style and includes appropriate tests.
 
 ## License
